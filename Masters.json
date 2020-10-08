@@ -1,0 +1,170 @@
+[
+  {
+    "Player": "",
+    "Year": "",
+    "": "",
+    "First Place": "",
+    "Top 10": "",
+    "Other": ""
+  },
+  {
+    "Player": "Jordan Spieth",
+    "Year": 2014,
+    "": "",
+    "First Place": 8.8,
+    "Top 10": 7.8,
+    "Other": 7.6
+  },
+  {
+    "Player": "Rory McIlroy",
+    "Year": 2009,
+    "": "",
+    "First Place": null,
+    "Top 10": 7.8,
+    "Other": 8.8
+  },
+  {
+    "Player": "Bubba Watson",
+    "Year": 2008,
+    "": "",
+    "First Place": 7.5,
+    "Top 10": 7.5,
+    "Other": 8.7
+  },
+  {
+    "Player": "Sergio García",
+    "Year": 1999,
+    "": "",
+    "First Place": 7.6,
+    "Top 10": 8.4,
+    "Other": 9
+  },
+  {
+    "Player": "Tiger Woods",
+    "Year": 1995,
+    "": "",
+    "First Place": 11.6,
+    "Top 10": 10,
+    "Other": 8.7
+  },
+  {
+    "Player": "Ernie Els",
+    "Year": 1994,
+    "": "",
+    "First Place": null,
+    "Top 10": 9.4,
+    "Other": 9.8
+  },
+  {
+    "Player": "Vijay Singh",
+    "Year": 1994,
+    "": "",
+    "First Place": 10,
+    "Top 10": 8.8,
+    "Other": 9.5
+  },
+  {
+    "Player": "Phil Mickelson",
+    "Year": 1991,
+    "": "",
+    "First Place": 8.8,
+    "Top 10": 9.3,
+    "Other": 8.8
+  },
+  {
+    "Player": "Jose Maria Olazabal",
+    "Year": 1985,
+    "": "",
+    "First Place": 9.1,
+    "Top 10": 8.7,
+    "Other": 9.9
+  },
+  {
+    "Player": "Bernhard Langer",
+    "Year": 1982,
+    "": "",
+    "First Place": 7.3,
+    "Top 10": 9.5,
+    "Other": 9.2
+  },
+  {
+    "Player": "Greg Norman",
+    "Year": 1981,
+    "": "",
+    "First Place": null,
+    "Top 10": 9.4,
+    "Other": 8.6
+  },
+  {
+    "Player": "Nick Faldo",
+    "Year": 1979,
+    "": "",
+    "First Place": 9.9,
+    "Top 10": 9.9,
+    "Other": 8.7
+  },
+  {
+    "Player": "Seve Ballesteros",
+    "Year": 1977,
+    "": "",
+    "First Place": 8,
+    "Top 10": 8.8,
+    "Other": 8.8
+  },
+  {
+    "Player": "Ben Crenshaw",
+    "Year": 1972,
+    "": "",
+    "First Place": 9.3,
+    "Top 10": 9.3,
+    "Other": 9.6
+  },
+  {
+    "Player": "Tom Watson",
+    "Year": 1970,
+    "": "",
+    "First Place": 9.8,
+    "Top 10": 9.6,
+    "Other": 8.9
+  },
+  {
+    "Player": "Lee Trevino",
+    "Year": 1968,
+    "": "",
+    "First Place": null,
+    "Top 10": 9.9,
+    "Other": 9.1
+  },
+  {
+    "Player": "Jack Nicklaus",
+    "Year": 1959,
+    "": "",
+    "First Place": 10.4,
+    "Top 10": 9.5,
+    "Other": 8.9
+  },
+  {
+    "Player": "Billy Casper",
+    "Year": 1957,
+    "": "",
+    "First Place": 8.3,
+    "Top 10": 9.3,
+    "Other": 9
+  },
+  {
+    "Player": "Gary Player",
+    "Year": 1957,
+    "": "",
+    "First Place": 8.2,
+    "Top 10": 8.7,
+    "Other": 9.4
+  },
+  {
+    "Player": "Arnold Palmer",
+    "Year": 1955,
+    "": "",
+    "First Place": 8.6,
+    "Top 10": 8.8,
+    "Other": 9.2
+  }
+]
